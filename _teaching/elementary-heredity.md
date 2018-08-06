@@ -2,6 +2,7 @@
 title: "Genetics & Heredity for Elementary School"
 collection: teaching
 type: "K-12 Outreach"
+location: "Various schools"
 permalink: /teaching/elementary-heredity
 ---
 
