@@ -4,7 +4,6 @@ collection: teaching
 type: "Pre-school"
 permalink: /teaching/seeds
 venue: "Quaker Lake Camp"
-date: 2013
 location: "Climax, NC"
 ---
 
