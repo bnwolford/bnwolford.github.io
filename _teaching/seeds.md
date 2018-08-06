@@ -1,1 +1,10 @@
- also led QLC’s Seeds Program, an environmental education program for preschoolers. I continued to lead the Seeds Program in Summer 2013. I developed three hours of curriculum surrounding science themes including as weather, metamorphosis, and astronomy for our weekly day-camps. The following website documents our learning experiences: Seeds Blog
+---
+title: "Seeds Pre-School Environmental Science Education"
+collection: teaching
+type: "Pre-school"
+permalink: /teaching/seeds
+venue: "Quaker Lake Camp"
+location: "Climax, NC"
+---
+
+In the summer of 2012 and 2013 I led Quaker Lake Camp’s Seeds Program, an environmental education program for preschoolers. I developed three hours of curriculum surrounding science themes including weather, metamorphosis, and astronomy for our weekly day-camps. I created a [blog](https://qlcseeds.wordpress.com) to document our learning experiences.
