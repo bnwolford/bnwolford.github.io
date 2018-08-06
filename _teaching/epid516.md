@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate Guest Lecture"
 permalink: /teaching/epid516
 venue: "University of Michigan, Department of Epidemiology"
+date: 2018-03-22
 location: "Ann Arbor, MI"
 ---
 
