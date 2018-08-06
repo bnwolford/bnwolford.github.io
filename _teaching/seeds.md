@@ -1,0 +1,1 @@
+ also led QLC’s Seeds Program, an environmental education program for preschoolers. I continued to lead the Seeds Program in Summer 2013. I developed three hours of curriculum surrounding science themes including as weather, metamorphosis, and astronomy for our weekly day-camps. The following website documents our learning experiences: Seeds Blog
