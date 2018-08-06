@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Girls Who Code"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "K-12 outreach"
+permalink: /teaching/girls-who-code
+venue: "University of Michigan, Department of Computational Medicine and Bioinformatics"
+location: "Ann Arbor, MI"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In 2016, University of Michigan Department of Computational Medicine and Bioinformatics (DCMB) graduate student and NSF GRFP fellow, Zena Lapp, and I founded a voluntary student organization focused on computer science education—[Girls Who Code at UM DCMB](http://umich.edu/~girlswc).
 
-Heading 1
-======
+Girls Who Code is a national non-profit organization dedicated to closing the gender gap in technology. Due to the research expertise of our graduate student Facilitators, we customized our club curriculum to focus on computational data analysis. Our Girls Who Code club meets weekly September-May and we teach 15 high school women data science and Python programming language skills. Club members complete a Capstone Proeject in pairs by exploring a data science topic of their choosing under the mentorship of a graudate student Facilitator.
 
-Heading 2
-======
+In addition to our Girls Who Code club, we partner with other university organizations to teach computer science lessons to K-12 students.
 
-Heading 3
-======
+Roles:
+2016-2018 Executive Committe Co-Chair, Logistics Chair, Outreach Chair
+
+
+
