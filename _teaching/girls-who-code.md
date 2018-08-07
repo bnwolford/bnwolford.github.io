@@ -4,6 +4,7 @@ collection: teaching
 type: "K-12 outreach"
 permalink: /teaching/girls-who-code
 venue: "University of Michigan, Department of Computational Medicine and Bioinformatics"
+date: 2018-05-22
 location: "Ann Arbor, MI"
 ---
 
