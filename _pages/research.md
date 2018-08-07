@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: Research Experience
+title:
 permalink: /research/
 author_profile: true
 
 ---
 
-# Current Research
+# Current Research Experience
 
 I am currently a Bioinformatics PhD Candidate mentored by Drs. Cristen Willer and Mike Boehnke. I work with both research groups to study the genetics of complex diseases, specifically cardiovascular and metabolic traits, using computational and statistical methods.
 
