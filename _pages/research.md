@@ -22,7 +22,7 @@ May 2016 - Present
 
 # Former Research Experience 
 
-## David Ginsburg Lab
+## David Ginsburg Laboratory
 March - April 2016  
 *University of Michigan*    
 *Department of Human Genetics, Life Sciences Institute*    
