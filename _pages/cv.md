@@ -12,6 +12,4 @@ redirect_from:
 <img src="../images/BW_CV_June_2018_pg1.jpg" href="../files/BW_CV_July_2018.pdf" target="_blank" height=1000>  
 
 
-<a href="INSERT-DOWNLOAD-LINK" download="THE-FILE-NAME">DOWNLOAD LINK</a>
-
-<a href="https://github.com/bnwolford/bnwolford.github.io/raw/master/files/BW_CV_July_2018.pdf" download="CV">https://github.com/bnwolford/bnwolford.github.io/raw/master/files/BW_CV_July_2018.pdf</a>  
+<a href="https://github.com/bnwolford/bnwolford.github.io/raw/master/files/BW_CV_July_2018.pdf" download="BW_CV_July_2018.pdf"><img src="../images/BW_CV_June_2018_pg1.jpg"></a>
