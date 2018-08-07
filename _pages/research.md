@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: Research Experience
-permalink: /research
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 Cristen Willer Lab
