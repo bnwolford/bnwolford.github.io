@@ -8,6 +8,8 @@ author_profile: true
 
 # Current Research
 
+I am currently a Bioinformatics PhD Candidate mentored by Drs. Cristen Willer and Mike Boehnke. I work with both research groups to study the genetics of complex diseases, specifically cardiovascular and metabolic traits, using computational and statistical methods.
+
 ## Cristen Willer Group
 University of Michigan
 Department of Internal Medicine, Department of Human Genetics, and Department of Computational Medicine and Bioinformatics
@@ -15,8 +17,6 @@ Department of Internal Medicine, Department of Human Genetics, and Department of
 ## Michael Boehnke/Laura Scott Group
 University of Michigan
 Department of Biostatistics, Center for Statistical Genetics
-
-I am currently a Bioinformatics PhD Candidate mentored by Drs. Cristen Willer and Mike Boehnke. I work with both research groups to study the genetics of complex diseases, specifically cardiovascular and metabolic traits, using computational and statistical methods.
 
 # Former Research Experience 
 
