@@ -22,7 +22,7 @@ May 2016 - Present
 
 # Former Research Experience 
 
-## David Ginsburg Laboratory
+## [David Ginsburg Laboratory](https://www.lsi.umich.edu/science/our-labs/david-ginsburg-lab)  
 March - April 2016  
 *University of Michigan*    
 *Department of Human Genetics, Life Sciences Institute*    
