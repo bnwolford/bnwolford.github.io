@@ -1,10 +1,10 @@
 ---
 permalink: /research/willer
 title: "Cristen Willer Laboratory"
+collection: research
 date: 2016-05-01
 ---
 
-## Cristen Willer Group
 May 2016 - Present  
 *University of Michigan*  
 *Department of Internal Medicine, Department of Human Genetics, and Department of Computational Medicine and Bioinformatics*
