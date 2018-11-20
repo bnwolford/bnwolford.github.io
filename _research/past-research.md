@@ -7,7 +7,6 @@ venue: "University of Michigan"
 date: 2018-11-15
 location: "Ann Arbor, MI"
 ---
-# Former Research Experience 
 
 ## [David Ginsburg Laboratory](https://www.lsi.umich.edu/science/our-labs/david-ginsburg-lab)  
 March - April 2016  
