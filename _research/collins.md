@@ -1,3 +1,14 @@
+---
+title: "Francis Collins Laboratory"
+collection: research
+type: "bioinformatics"
+permalink: /research/collins.md
+venue: "National Human Genome Research Institute"
+date: 2013-08-01
+location: "Bethesda, MD"
+---
+
+
 ## [Francis Collins Laboratory](https://www.genome.gov/27534095/collins--group/)  
 August 2013 - August 2015  
 *National Institutes of Health, National Human Genome Research Institute*  
