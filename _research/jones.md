@@ -1,11 +1,7 @@
 ---
 title: "Corbin Jones Laboratory"
 collection: research
-type: "evolutionary genetics"
 permalink: /research/jones
-venue: "University of North Carolina at Chapel hill"
-date: 2008-06-01
-location: "Chapel Hill, NC"
 ---
 
 
