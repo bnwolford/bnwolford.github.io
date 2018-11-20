@@ -1,3 +1,12 @@
+---
+title: "Former Research Experience"
+collection: research
+type: "bioinformatics"
+permalink: /research/current-research.md
+venue: "University of Michigan"
+date: 2018-11-15
+location: "Ann Arbor, MI"
+---
 # Former Research Experience 
 
 ## [David Ginsburg Laboratory](https://www.lsi.umich.edu/science/our-labs/david-ginsburg-lab)  
