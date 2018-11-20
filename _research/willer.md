@@ -1,12 +1,11 @@
 ---
-title: "Cristen Willer Laboratory"
-collection: research
-type: "bioinformatics"
 permalink: /research/willer.md
-venue: "University of Michigan"
-date: 2016-05-01
-location: "Ann Arbor, MI"
 ---
+
+## Michael Boehnke/Laura Scott Group
+May 2016 - Present  
+*University of Michigan*  
+*Department of Biostatistics, Center for Statistical Genetics*  
 
 I am currently a Bioinformatics PhD Candidate mentored by [Dr. Cristen Willer](http://www.umich.edu/~willerim/index.html) and [Dr. Mike Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html). I work with both research groups to study the genetics of complex diseases, specifically cardiovascular and metabolic traits, using computational and statistical methods.
 
@@ -14,9 +13,3 @@ I am currently a Bioinformatics PhD Candidate mentored by [Dr. Cristen Willer](h
 May 2016 - Present  
 *University of Michigan*  
 *Department of Internal Medicine, Department of Human Genetics, and Department of Computational Medicine and Bioinformatics*  
-
-## Michael Boehnke/Laura Scott Group
-May 2016 - Present  
-*University of Michigan*  
-*Department of Biostatistics, Center for Statistical Genetics*  
-
