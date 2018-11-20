@@ -2,6 +2,7 @@
 title: "Corbin Jones Laboratory"
 collection: research
 permalink: /research/jones
+date: 2008-08-01
 ---
 
 
