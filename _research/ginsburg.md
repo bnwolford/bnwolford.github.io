@@ -2,7 +2,7 @@
 title: "David Ginsburg Laboratory"
 collection: research
 type: "bioinformatics"
-permalink: /research/ginsburg.md
+permalink: /research/ginsburg
 venue: "University of Michigan"
 date: 2016-03-01
 location: "Ann Arbor, MI"
