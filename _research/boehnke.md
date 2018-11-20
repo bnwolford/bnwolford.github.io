@@ -1,6 +1,7 @@
 ---
 permalink: /research/boehnke
 title: "Michael Boehnke & Laura Scott Group"
+colleciton: research
 date: 2015-08-01
 ---
 
