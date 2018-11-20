@@ -5,7 +5,7 @@ type: "bioinformatics"
 permalink: /research/current-research.md
 venue: "University of Michigan"
 date: 2018-11-15
-location: "Ann Arbor, MI:
+location: "Ann Arbor, MI"
 ---
 
 # Current Research Experience
