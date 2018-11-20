@@ -1,8 +1,7 @@
 ---
-title: "Current Reserach Experience"
+title: "Current Research Experience"
 collection: research
-date: 2018-11-17
-permalink: /teaching/elementary-heredity
+permalink: /research/current-research.md
 ---
 
 # Current Research Experience
