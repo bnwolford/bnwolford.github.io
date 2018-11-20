@@ -1,4 +1,11 @@
 
+---
+title: "Current Research Experience"
+collection: research
+date: 2018-05-01
+permalink: /research/current-research.md
+---
+
 # Current Research Experience
 
 I am currently a Bioinformatics PhD Candidate mentored by [Dr. Cristen Willer](http://www.umich.edu/~willerim/index.html) and [Dr. Mike Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html). I work with both research groups to study the genetics of complex diseases, specifically cardiovascular and metabolic traits, using computational and statistical methods.
