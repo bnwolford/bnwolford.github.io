@@ -2,7 +2,7 @@
 title: "Francis Collins Laboratory"
 collection: research
 type: "bioinformatics"
-permalink: /research/collins.md
+permalink: /research/collins
 venue: "National Human Genome Research Institute"
 date: 2013-08-01
 location: "Bethesda, MD"
