@@ -1,3 +1,13 @@
+---
+title: "Corbin Jones Laboratory"
+collection: research
+type: "evolutionary genetics"
+permalink: /research/jones.md
+venue: "University of North Carolina at Chapel hill"
+date: 2008-06-01
+location: "Chapel Hill, NC"
+---
+
 ## [Corbin Jones Laboratory](http://joneslab.web.unc.edu)  
 June 2008 - May 2013  
 *University of North Carolina at Chapel Hill  
