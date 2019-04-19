@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Python"
 collection: teaching
-type: "tutorial"
+type: "Peer Tutorial"
 permalink: /teaching/intro_to_python
 venue: "University of Michigan"
 date: 2019-03-20
