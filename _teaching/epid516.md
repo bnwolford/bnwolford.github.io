@@ -1,5 +1,5 @@
 ---
-title: "EPID516 Guest Lecture"
+title: "Genomics in Epidemiology"
 collection: teaching
 type: "Graduate Guest Lecture"
 permalink: /teaching/epid516
