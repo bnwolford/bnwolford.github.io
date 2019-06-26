@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/test
 venue: "University of Michigan, Department of Epidemiology"
-date: 2019-03-22
+date: 2019-02-20
 location: "Ann Arbor, MI"
 ---
 
