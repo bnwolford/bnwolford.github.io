@@ -1,7 +1,7 @@
 ---
 title: "Big Data Summer Institute"
 collection: teaching
-type: "Undergradutae"
+type: "Undergraduate"
 venue: "University of Michigan"
 date: 2019-06-16
 permalink: /teaching/BDSI
