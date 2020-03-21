@@ -80,7 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Brooke N. Wolford"
-  avatar           : "BC8U9225_f_w_3by3.jpg"
+  #avatar           : "BC8U9225_f_w_3by3.jpg"
+  avatar           : "BNW_logo.png"
   bio              : "PhD Candidate and Statistical Geneticist at the University of Michigan"
   location         : "Ann Arbor, MI"
   employer         : 
