@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 future                   : false #if true, schdeules future blog posts
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-logo                     : "BNW_logo_crop.png"
+logo                     : "/assets/images/BNW_logo_crop.png"
 masthead_title           : "Home"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
