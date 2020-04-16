@@ -58,9 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  creator               : "bnwolford" 
   card                  : "summary"
-  image                 : "BNW_logo.png"
 facebook:
   username               :
   app_id                 :
