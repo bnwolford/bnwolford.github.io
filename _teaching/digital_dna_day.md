@@ -20,6 +20,7 @@ Compiled with help from [Chirstina Vallianatos](https://www.linkedin.com/in/chri
 * American Society of Human Genetics (ASHG) K-12 Educational [Resources](https://www.ashg.org/discover-genetics/k-12-education/)
 * [DNA Day Essay Contest](https://www.ashg.org/discover-genetics/k-12-education/dna-day/) for high schoolers 
 * [May 1, 2020 Reddit AMA](https://www.reddit.com/r/science/)
+* [Genetics Engagement & Education Network](https://www.ashg.org/discover-genetics/gene-network/)
 #### Podcasts
   - [In Those Genes](https://inthosegenes.com)
   - [DNA Today](http://dnapodcast.com/about-us)
