@@ -5,6 +5,7 @@ Compiled with help from [Chirstina Vallianatos](https://www.linkedin.com/in/chri
 
 * [American Society of Human Genetics DNA Day Activity Ideas](https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf)  
 * [NHGRI DNA Day Activity Ideas](https://www.genome.gov/dna-day/get-activity-ideas)
+* NHGRI [15 Ways Genomics Influences Our World](https://www.genome.gov/dna-day/15-ways)
 * [23 & Me Education](https://education.23andme.com)  
 * PBS Documentary with author of Gene, Siddhartha Mukherjee, and Ken Burns  
   - [Part1](https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/)  
