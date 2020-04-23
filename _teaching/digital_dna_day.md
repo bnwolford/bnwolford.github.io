@@ -7,6 +7,7 @@ Compiled with help from [Chirstina Vallianatos](https://www.linkedin.com/in/chri
 * [DNA Day Activity Ideas](https://www.genome.gov/dna-day/get-activity-ideas)
 * [15 Ways Genomics Influences Our World](https://www.genome.gov/dna-day/15-ways)
 * [Teaching Tools](https://www.genome.gov/about-genomics/teaching-tools)
+* [Lessons From the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4)
 #### Genome Unlocking Life's Code
 * [Curriculum](https://unlockinglifescode.org/learn/curriculum)
 * [Animated Genome](https://unlockinglifescode.org/media/animations/659#660)
