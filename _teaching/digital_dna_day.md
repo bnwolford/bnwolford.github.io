@@ -18,6 +18,7 @@ Compiled with help from [Chirstina Vallianatos](https://www.linkedin.com/in/chri
 #### American Society of Human Genetics 
 * [DNA Day Activity Ideas](https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf)  
 * American Society of Human Genetics (ASHG) K-12 Educational [Resources](https://www.ashg.org/discover-genetics/k-12-education/)
+* [DNA Day Essay Contest](https://www.ashg.org/discover-genetics/k-12-education/dna-day/) for high schoolers 
 #### Podcasts
   - [In Those Genes](https://inthosegenes.com)
   - [DNA Today](http://dnapodcast.com/about-us)
