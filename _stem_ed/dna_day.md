@@ -15,7 +15,7 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * [Teaching Tools](https://www.genome.gov/about-genomics/teaching-tools)
 * [Lessons From the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4)  
 
-#### Genome Unlocking Life's Code
+### Genome Unlocking Life's Code
 * [Curriculum](https://unlockinglifescode.org/learn/curriculum)
 * [Animated Genome](https://unlockinglifescode.org/media/animations/659#660)
 * Explore ethical, legal and social implications with [What do you think?](https://unlockinglifescode.org/wdyt/#/)
