@@ -30,7 +30,7 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * <a href="https://www.ashg.org/discover-genetics/k-12-education/dna-day/" target="_blank">DNA Day Essay Contest</a> for high schoolers
 * <a href="https://www.reddit.com/r/science/" target="_blank">May 1, 2020 Reddit AMA</a>
 * <a href="https://www.ashg.org/discover-genetics/gene-network" target="_blank">Genetics Engagement & Education Network</a> for educators looking for genetics contacts
-* <a href="https://twitter.com/GeneticsSociety" target=_blank">ASHG Twitter</a> to see <a href="https://twitter.com/hashtag/GENEfacts?src=hashtag_click" target="_blank"> \#GENEfacts</a>  
+* <a href="https://twitter.com/GeneticsSociety" target="_blank">ASHG Twitter</a> to see <a href="https://twitter.com/hashtag/GENEfacts?src=hashtag_click" target="_blank"> #GENEfacts</a>  
 
 ## Podcasts
   - <a href="https://inthosegenes.com" target="_blank">In Those Genes</a>
