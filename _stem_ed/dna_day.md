@@ -13,7 +13,7 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * [DNA Day Activity Ideas](https://www.genome.gov/dna-day/get-activity-ideas)
 * [15 Ways Genomics Influences Our World](https://www.genome.gov/dna-day/15-ways)
 * [Teaching Tools](https://www.genome.gov/about-genomics/teaching-tools)
-* [Lessons From the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4)
+* [Lessons From the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4)  
 
 #### Genome Unlocking Life's Code
 * [Curriculum](https://unlockinglifescode.org/learn/curriculum)
@@ -22,7 +22,7 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * Explore the human origins with [In and Beyond Africa](https://unlockinglifescode.org/iaba/)
 * Strawberry DNA Extraction Experiment
   - [Video](https://www.youtube.com/watch?v=hOpu4iN5Bh4)
-  - [Instructions](https://unlockinglifescode.org/education-resource-profile/dna-strawberries-tutorial-video-and-poster)
+  - [Instructions](https://unlockinglifescode.org/education-resource-profile/dna-strawberries-tutorial-video-and-poster)  
   
 #### American Society of Human Genetics 
 * [DNA Day Activity Ideas](https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf)  
@@ -30,12 +30,12 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * [DNA Day Essay Contest](https://www.ashg.org/discover-genetics/k-12-education/dna-day/) for high schoolers 
 * [May 1, 2020 Reddit AMA](https://www.reddit.com/r/science/)
 * [Genetics Engagement & Education Network](https://www.ashg.org/discover-genetics/gene-network/)
-* [#GeneFacts on Twitter](https://twitter.com/GeneticsSociety)
+* [#GeneFacts on Twitter](https://twitter.com/GeneticsSociety)  
 
 #### Podcasts
   - [In Those Genes](https://inthosegenes.com)
   - [DNA Today](http://dnapodcast.com/about-us)
-  - [Science Friday](https://www.sciencefriday.com) and their [STEM Resources](https://www.sciencefriday.com/segments/free-stem-resources/)
+  - [Science Friday](https://www.sciencefriday.com) and their [STEM Resources](https://www.sciencefriday.com/segments/free-stem-resources/)  
   
 #### Miscellaneous
 * [23 & Me Education](https://education.23andme.com)  
@@ -54,5 +54,5 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * National Center for Case Study Teaching in Science [DNA related resources](https://sciencecases.lib.buffalo.edu/collection/results.html?keywords2=dna&submit=Search&subject_headings=&educational_level=&type_methods=&topical_areas=&date_posted2=)
 * DNAdots [simple expanations of modern genetic technologies](https://dnadots.minipcr.com/?s=&post_type=dnadots-item)
 * Howard Hughes Medical Institute (HHMI) BioInteractive [Genetics Resource Playlists](https://www.biointeractive.org/planning-tools/resource-playlists?f%5B0%5D=topics%3A28)
-* Jackson Laboratory [Career Chats](https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be)
+* Jackson Laboratory [Career Chats](https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be)  
 
