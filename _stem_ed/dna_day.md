@@ -9,7 +9,7 @@ Since many in person DNA Day celerbations are moving online, I'm hosting this co
 
 Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/)
 
-#### National Human Genome Research Institute
+## National Human Genome Research Institute
 * [DNA Day Activity Ideas](https://www.genome.gov/dna-day/get-activity-ideas)
 * [15 Ways Genomics Influences Our World](https://www.genome.gov/dna-day/15-ways)
 * [Teaching Tools](https://www.genome.gov/about-genomics/teaching-tools)
@@ -24,7 +24,7 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
   - [Video](https://www.youtube.com/watch?v=hOpu4iN5Bh4)
   - [Instructions](https://unlockinglifescode.org/education-resource-profile/dna-strawberries-tutorial-video-and-poster)  
   
-#### American Society of Human Genetics 
+## American Society of Human Genetics 
 * [DNA Day Activity Ideas](https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf)  
 * American Society of Human Genetics (ASHG) K-12 Educational [Resources](https://www.ashg.org/discover-genetics/k-12-education/)
 * [DNA Day Essay Contest](https://www.ashg.org/discover-genetics/k-12-education/dna-day/) for high schoolers 
@@ -32,12 +32,12 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * [Genetics Engagement & Education Network](https://www.ashg.org/discover-genetics/gene-network/)
 * [#GeneFacts on Twitter](https://twitter.com/GeneticsSociety)  
 
-#### Podcasts
+## Podcasts
   - [In Those Genes](https://inthosegenes.com)
   - [DNA Today](http://dnapodcast.com/about-us)
   - [Science Friday](https://www.sciencefriday.com) and their [STEM Resources](https://www.sciencefriday.com/segments/free-stem-resources/)  
   
-#### Miscellaneous
+## Miscellaneous
 * [23 & Me Education](https://education.23andme.com)  
 * PBS Documentary with author of Gene, Siddhartha Mukherjee, and Ken Burns  
   - [Part1](https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/)  
