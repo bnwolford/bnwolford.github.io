@@ -3,9 +3,14 @@ title: "Digital DNA Day"
 collection: stem_ed
 permalink: /stem_ed/dna_day
 date: 2020-04-24
+og_image: images/DNA_DAY_BLOCK_Blue.jpg
+og_type: website
+og_title: Digital DNA Day
 ---
 
 National DNA Day commemorates the successful completion of the Human Genome Project in 2003 and the discovery of DNA's double helix in 1953. Since many in-person DNA Day celebrations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
+
+<center><img src="/images/DNA_DAY_long.jpg" width=400></center>  
 
 Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/)
 
