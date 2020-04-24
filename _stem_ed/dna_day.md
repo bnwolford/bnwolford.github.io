@@ -8,7 +8,7 @@ og_type: website
 og_title: Digital DNA Day
 ---
 
-National DNA Day commemorates the successful completion of the Human Genome Project in 2003 and the discovery of DNA's double helix in 1953. Since many in-person DNA Day celebrations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
+<a href="https://www.genome.gov/dna-day" target="_blank">National DNA Day</a> commemorates the successful completion of the Human Genome Project in 2003 and the discovery of DNA's double helix in 1953. Since many in-person DNA Day celebrations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
 
 ![](/images/DNA_DAY_long.jpg)
 Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">NHGRI</a>.
@@ -18,9 +18,9 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * <a href="https://www.genome.gov/dna-day/get-activity-ideas" target="_blank">DNA Day Activity Ideas</a>
 * <a href="https://www.genome.gov/dna-day/15-ways" target="_blank">15 Ways Genomics Influences Our World</a>
 * <a href="https://www.genome.gov/about-genomics/teaching-tools" target="_blank">Teaching Tools</a>
-* <a href="https://www.youtube.com/watch?v=qOW5e4BgEa4" target="_blank">Lessons From the Human Genome Project</a>  
+* <a href="https://www.youtube.com/watch?v=qOW5e4BgEa4" target="_blank">Lessons From the Human Genome Project</a>   
 
-### Genome Unlocking Life's Code
+## Genome Unlocking Life's Code
 * <a href="https://unlockinglifescode.org/learn/curriculum" target="_blank">Curriculum</a>
 * <a href="https://unlockinglifescode.org/media/animations/659#660" target="_blank">Animated Genome</a>
 * Explore ethical, legal and social implications with <a href="https://unlockinglifescode.org/wdyt/#/" target="_blank">What do you think?</a>
