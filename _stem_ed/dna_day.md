@@ -7,7 +7,7 @@ date: 2020-04-24
 
 Since many in person DNA Day celerbations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
 
-Compiled with help from [Chirstina Vallianatos](https://www.linkedin.com/in/christinavallianatos/)
+Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/)
 
 #### National Human Genome Research Institute
 * [DNA Day Activity Ideas](https://www.genome.gov/dna-day/get-activity-ideas)
