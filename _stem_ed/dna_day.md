@@ -6,9 +6,8 @@ permalink: /stem_ed/dna_day
 date: 2020-04-25
 ---
 
-## Happy Digital DNA Day: April 25, 2020
+Since many in person DNA Day celerbations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
 
-### A compilation of educational resources
 Compiled with help from [Chirstina Vallianatos](https://www.linkedin.com/in/christinavallianatos/)
 
 #### National Human Genome Research Institute
