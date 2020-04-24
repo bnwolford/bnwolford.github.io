@@ -10,10 +10,10 @@ Since many in person DNA Day celerbations are moving online, I'm hosting this co
 Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/)
 
 ## National Human Genome Research Institute
-* [DNA Day Activity Ideas](https://www.genome.gov/dna-day/get-activity-ideas)
-* [15 Ways Genomics Influences Our World](https://www.genome.gov/dna-day/15-ways)
-* [Teaching Tools](https://www.genome.gov/about-genomics/teaching-tools)
-* [Lessons From the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4)  
+* <a href="https://www.genome.gov/dna-day/get-activity-ideas" target="_blank">DNA Day Activity Ideas</a>
+* <a href="https://www.genome.gov/dna-day/15-ways" target="_blank">15 Ways Genomics Influences Our World</a>
+* <a href="https://www.genome.gov/about-genomics/teaching-tools" target="_blank">Teaching Tools</a>
+* <a href="https://www.youtube.com/watch?v=qOW5e4BgEa4" target="_blank">Lessons From the Human Genome Project</a>  
 
 ### Genome Unlocking Life's Code
 * [Curriculum](https://unlockinglifescode.org/learn/curriculum)
