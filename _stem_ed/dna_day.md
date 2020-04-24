@@ -2,7 +2,7 @@
 title: "Digital DNA Day"
 collection: stem_ed
 permalink: /stem_ed/dna_day
-date: 2020-04-25
+date: 2020-04-24
 ---
 
 Since many in person DNA Day celerbations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
