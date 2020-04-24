@@ -49,7 +49,7 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
   
 ## Miscellaneous DNA resources 
 * <a href="https://education.23andme.com" target="_blank">23 & Me Education</a>
-* PBS Documentary with author of Gene, Siddhartha Mukherjee, and Ken Burns  
+* PBS Documentary with author of *The Gene*, Siddhartha Mukherjee, and Ken Burns  
   - <a href="https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/" target="_blank">Part 1</a>
   - <a href="https://www.pbs.org/video/part-2-revolution-in-the-treatment-of-disease-z9nxg5/" target="_blank">Part 2</a>
 * Personal Genetics Eduation Project <a href="https://pged.org/lesson-plans/" target="_blank">Lesson Plans</a>
