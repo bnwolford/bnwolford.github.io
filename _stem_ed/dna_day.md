@@ -1,7 +1,6 @@
 ---
 title: "Digital DNA Day"
 collection: stem_ed
-type: "Pre-school"
 permalink: /stem_ed/dna_day
 date: 2020-04-25
 ---
