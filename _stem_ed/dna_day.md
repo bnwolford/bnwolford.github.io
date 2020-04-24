@@ -14,6 +14,7 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * [15 Ways Genomics Influences Our World](https://www.genome.gov/dna-day/15-ways)
 * [Teaching Tools](https://www.genome.gov/about-genomics/teaching-tools)
 * [Lessons From the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4)
+
 #### Genome Unlocking Life's Code
 * [Curriculum](https://unlockinglifescode.org/learn/curriculum)
 * [Animated Genome](https://unlockinglifescode.org/media/animations/659#660)
@@ -22,6 +23,7 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * Strawberry DNA Extraction Experiment
   - [Video](https://www.youtube.com/watch?v=hOpu4iN5Bh4)
   - [Instructions](https://unlockinglifescode.org/education-resource-profile/dna-strawberries-tutorial-video-and-poster)
+  
 #### American Society of Human Genetics 
 * [DNA Day Activity Ideas](https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf)  
 * American Society of Human Genetics (ASHG) K-12 Educational [Resources](https://www.ashg.org/discover-genetics/k-12-education/)
@@ -29,10 +31,12 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * [May 1, 2020 Reddit AMA](https://www.reddit.com/r/science/)
 * [Genetics Engagement & Education Network](https://www.ashg.org/discover-genetics/gene-network/)
 * [#GeneFacts on Twitter](https://twitter.com/GeneticsSociety)
+
 #### Podcasts
   - [In Those Genes](https://inthosegenes.com)
   - [DNA Today](http://dnapodcast.com/about-us)
   - [Science Friday](https://www.sciencefriday.com) and their [STEM Resources](https://www.sciencefriday.com/segments/free-stem-resources/)
+  
 #### Miscellaneous
 * [23 & Me Education](https://education.23andme.com)  
 * PBS Documentary with author of Gene, Siddhartha Mukherjee, and Ken Burns  
