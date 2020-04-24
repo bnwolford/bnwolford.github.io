@@ -1,7 +1,6 @@
 ---
 title: "Seeds Pre-School Environmental Science Education"
 collection: stem_ed
-type: "Pre-school"
 permalink: /stem_ed/seeds
 date: 2013-08-01
 ---
