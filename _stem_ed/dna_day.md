@@ -6,9 +6,9 @@ permalink: /stem_ed/dna_day
 date: 2020-04-25
 ---
 
-# Happy Digital DNA Day: April 25, 2020
+## Happy Digital DNA Day: April 25, 2020
 
-## A compilation of educational resources
+### A compilation of educational resources
 Compiled with help from [Chirstina Vallianatos](https://www.linkedin.com/in/christinavallianatos/)
 
 #### National Human Genome Research Institute
@@ -52,4 +52,5 @@ Compiled with help from [Chirstina Vallianatos](https://www.linkedin.com/in/chri
 * National Center for Case Study Teaching in Science [DNA related resources](https://sciencecases.lib.buffalo.edu/collection/results.html?keywords2=dna&submit=Search&subject_headings=&educational_level=&type_methods=&topical_areas=&date_posted2=)
 * DNAdots [simple expanations of modern genetic technologies](https://dnadots.minipcr.com/?s=&post_type=dnadots-item)
 * Howard Hughes Medical Institute (HHMI) BioInteractive [Genetics Resource Playlists](https://www.biointeractive.org/planning-tools/resource-playlists?f%5B0%5D=topics%3A28)
+* Jackson Laboratory [Career Chats](https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be)
 
