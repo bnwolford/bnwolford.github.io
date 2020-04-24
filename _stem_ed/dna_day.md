@@ -18,7 +18,8 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * <a href="https://www.genome.gov/dna-day/get-activity-ideas" target="_blank">DNA Day Activity Ideas</a>
 * <a href="https://www.genome.gov/dna-day/15-ways" target="_blank">15 Ways Genomics Influences Our World</a>
 * <a href="https://www.genome.gov/about-genomics/teaching-tools" target="_blank">Teaching Tools</a>
-* <a href="https://www.youtube.com/watch?v=qOW5e4BgEa4" target="_blank">Lessons From the Human Genome Project</a>   
+* <a href="https://www.youtube.com/watch?v=qOW5e4BgEa4" target="_blank">Lessons From the Human Genome Project</a>
+* <a href="https://twitter.com/DNAday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">National DNA Day Twitter</a>  
 
 ## Genome Unlocking Life's Code
 * <a href="https://unlockinglifescode.org/learn/curriculum" target="_blank">Curriculum</a>
