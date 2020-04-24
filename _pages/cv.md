@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
