@@ -33,11 +33,16 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * <a href="https://twitter.com/GeneticsSociety" target=_blank">ASHG Twitter</a> to see <a href="https://twitter.com/hashtag/GENEfacts?src=hashtag_click" target="_blank">#GENEfacts</a>  
 
 ## Podcasts
-  - [In Those Genes](https://inthosegenes.com)
-  - [DNA Today](http://dnapodcast.com/about-us)
-  - [Science Friday](https://www.sciencefriday.com) and their [STEM Resources](https://www.sciencefriday.com/segments/free-stem-resources/)  
+  - <a href="https://inthosegenes.com" target="_blank">In Those Genes</a>
+  - <a href="http://dnapodcast.com/about-us" target="_blank">DNA Today</a>
+  - <a href="https://www.sciencefriday.com" target="_blank">Science Friday</a> and their <a href="https://www.sciencefriday.com/segments/free-stem-resources/" target="_blank">STEM Resources</a>
   
-## Miscellaneous
+## General Science Learning
+* <a href="https://www.instagram.com/mrs.b.tv/" target="_blank">Mrs. B TV</a>
+* <a href="https://www.skypeascientist.com" target="_blank">Skype A Scients</a>
+* <a href="https://www.youtube.com/user/AmoebaSisters" target="_blank">Amoeba Sisters Videos</a>
+  
+## Miscellaneous DNA resources 
 * [23 & Me Education](https://education.23andme.com)  
 * PBS Documentary with author of Gene, Siddhartha Mukherjee, and Ken Burns  
   - [Part1](https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/)  
@@ -45,11 +50,9 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * Personal Genetics Eduation Project [Lesson Plans](https://pged.org/lesson-plans/)
 * NC DNA Day [Modules](http://ncdnaday.org/learn-more/resources-2/)
 * MI DNA Day [Modules](https://midnaday.com/the-modules/)
-* [Skype A Scientist](https://www.skypeascientist.com)
 * University of Utah Genetic Science Learning Center [Resources](https://learn.genetics.utah.edu)
 * Science Tools in the Classroom [DNA Inquiry Activities](http://www.stcnm.org/resources)
 * [Guide to](https://www.minipcr.com/professional-development/larp-live-action-role-playing-biological-processes/) Live Action Role Playing Biological Processes
-* [Amoeba Sisters Videos](https://www.youtube.com/user/AmoebaSisters)
 * Connecticut Women's Hall of Fame [Barbara McClintock Lesson Plans](https://static1.squarespace.com/static/5d7121a2621fa50001fc829f/t/5dcc389a33e6e87259430eb6/1573948774306/STEMfems-McClintock.pdf)
 * National Center for Case Study Teaching in Science [DNA related resources](https://sciencecases.lib.buffalo.edu/collection/results.html?keywords2=dna&submit=Search&subject_headings=&educational_level=&type_methods=&topical_areas=&date_posted2=)
 * DNAdots [simple expanations of modern genetic technologies](https://dnadots.minipcr.com/?s=&post_type=dnadots-item)
