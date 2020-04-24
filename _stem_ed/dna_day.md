@@ -16,21 +16,21 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * <a href="https://www.youtube.com/watch?v=qOW5e4BgEa4" target="_blank">Lessons From the Human Genome Project</a>  
 
 ### Genome Unlocking Life's Code
-* [Curriculum](https://unlockinglifescode.org/learn/curriculum)
-* [Animated Genome](https://unlockinglifescode.org/media/animations/659#660)
-* Explore ethical, legal and social implications with [What do you think?](https://unlockinglifescode.org/wdyt/#/)
-* Explore the human origins with [In and Beyond Africa](https://unlockinglifescode.org/iaba/)
+* <a href="https://unlockinglifescode.org/learn/curriculum" target="_blank">Curriculum</a>
+* <a href="https://unlockinglifescode.org/media/animations/659#660" target="_blank">Animated Genome</a>
+* Explore ethical, legal and social implications with <a href="https://unlockinglifescode.org/wdyt/#/" target="_blank">What do you think?</a>
+* Explore the human origins with <a href="https://unlockinglifescode.org/iaba/" target="_blank">In and Beyond Africa</a>
 * Strawberry DNA Extraction Experiment
-  - [Video](https://www.youtube.com/watch?v=hOpu4iN5Bh4)
-  - [Instructions](https://unlockinglifescode.org/education-resource-profile/dna-strawberries-tutorial-video-and-poster)  
+  - <a href="https://www.youtube.com/watch?v=hOpu4iN5Bh4" target="_blank">Video</a>
+  - <a href="https://unlockinglifescode.org/education-resource-profile/dna-strawberries-tutorial-video-and-poster" target="_blank">Instructions</a>
   
 ## American Society of Human Genetics 
-* [DNA Day Activity Ideas](https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf)  
-* American Society of Human Genetics (ASHG) K-12 Educational [Resources](https://www.ashg.org/discover-genetics/k-12-education/)
-* [DNA Day Essay Contest](https://www.ashg.org/discover-genetics/k-12-education/dna-day/) for high schoolers 
-* [May 1, 2020 Reddit AMA](https://www.reddit.com/r/science/)
-* [Genetics Engagement & Education Network](https://www.ashg.org/discover-genetics/gene-network/)
-* [#GeneFacts on Twitter](https://twitter.com/GeneticsSociety)  
+* <a href="https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf" target="_blank">DNA Day Activity Ideas</a>
+* American Society of Human Genetics (ASHG) K-12 Educational <a href="https://www.ashg.org/discover-genetics/k-12-education/" target="_blank">Resources</a>
+* <a href="https://www.ashg.org/discover-genetics/k-12-education/dna-day/" target="_blank">DNA Day Essay Contest</a> for high schoolers
+* <a href="https://www.reddit.com/r/science/" target="_blank">May 1, 2020 Reddit AMA</a>
+* <a href="https://www.ashg.org/discover-genetics/gene-network" target="_blank">Genetics Engagement & Education Network</a> for educators looking for genetics contacts
+* <a href="https://twitter.com/GeneticsSociety" target=_blank">ASHG Twitter</a> to see <a href="https://twitter.com/hashtag/GENEfacts?src=hashtag_click" target="_blank">#GENEfacts</a>  
 
 ## Podcasts
   - [In Those Genes](https://inthosegenes.com)
