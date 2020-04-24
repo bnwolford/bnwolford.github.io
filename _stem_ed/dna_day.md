@@ -5,7 +5,7 @@ permalink: /stem_ed/dna_day
 date: 2020-04-24
 ---
 
-Since many in person DNA Day celerbations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
+National DNA Day commemorates the successful completion of the Human Genome Project in 2003 and the discovery of DNA's double helix in 1953. Since many in-person DNA Day celebrations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
 
 Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/)
 
@@ -43,19 +43,20 @@ Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/chri
 * <a href="https://www.youtube.com/user/AmoebaSisters" target="_blank">Amoeba Sisters Videos</a>
   
 ## Miscellaneous DNA resources 
-* [23 & Me Education](https://education.23andme.com)  
+* <a href="https://education.23andme.com" target="_blank">23 & Me Education</a>
 * PBS Documentary with author of Gene, Siddhartha Mukherjee, and Ken Burns  
-  - [Part1](https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/)  
-  - [Part2](https://www.pbs.org/video/part-2-revolution-in-the-treatment-of-disease-z9nxg5/)  
-* Personal Genetics Eduation Project [Lesson Plans](https://pged.org/lesson-plans/)
-* NC DNA Day [Modules](http://ncdnaday.org/learn-more/resources-2/)
-* MI DNA Day [Modules](https://midnaday.com/the-modules/)
-* University of Utah Genetic Science Learning Center [Resources](https://learn.genetics.utah.edu)
-* Science Tools in the Classroom [DNA Inquiry Activities](http://www.stcnm.org/resources)
-* [Guide to](https://www.minipcr.com/professional-development/larp-live-action-role-playing-biological-processes/) Live Action Role Playing Biological Processes
-* Connecticut Women's Hall of Fame [Barbara McClintock Lesson Plans](https://static1.squarespace.com/static/5d7121a2621fa50001fc829f/t/5dcc389a33e6e87259430eb6/1573948774306/STEMfems-McClintock.pdf)
-* National Center for Case Study Teaching in Science [DNA related resources](https://sciencecases.lib.buffalo.edu/collection/results.html?keywords2=dna&submit=Search&subject_headings=&educational_level=&type_methods=&topical_areas=&date_posted2=)
-* DNAdots [simple expanations of modern genetic technologies](https://dnadots.minipcr.com/?s=&post_type=dnadots-item)
-* Howard Hughes Medical Institute (HHMI) BioInteractive [Genetics Resource Playlists](https://www.biointeractive.org/planning-tools/resource-playlists?f%5B0%5D=topics%3A28)
-* Jackson Laboratory [Career Chats](https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be)  
+  - <a href="https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/" target="_blank">Part 1</a>
+  - <a href="https://www.pbs.org/video/part-2-revolution-in-the-treatment-of-disease-z9nxg5/" target="_blank">Part 2</a>
+* Personal Genetics Eduation Project <a href="https://pged.org/lesson-plans/" target="_blank">Lesson Plans</a>
+* NC DNA Day <a href="http://ncdnaday.org/learn-more/resources-2/" target="_blank">Modules</a>
+* MI DNA Day <a href="https://midnaday.com/the-modules/" target="_blank">Modules</a>
+* University of Utah Genetic Science Learning Center <a href="https://learn.genetics.utah.edu" target="_blank">Resources</a>
+  - <a href="https://learn.genetics.utah.edu/content/pigeons/pigeonetics/" target="_blank">Pigeonetics</a> comes highly recommended!
+* Science Tools in the Classroom <a href="http://www.stcnm.org/resources" target="_blank">DNA Inquiry Activities</a>
+* <a href="https://www.minipcr.com/professional-development/larp-live-action-role-playing-biological-processes/" target="_blank">Guide To</a> Live Action Role Playing Biological Processes
+* Connecticut Women's Hall of Fame <a href="https://static1.squarespace.com/static/5d7121a2621fa50001fc829f/t/5dcc389a33e6e87259430eb6/1573948774306/STEMfems-McClintock.pdf" target="_blank">Barbara McClintock Lesson Plans</a>
+* National Center for Case Study Teaching in Science <a href="https://sciencecases.lib.buffalo.edu/collection/results.html?keywords2=dna&submit=Search&subject_headings=&educational_level=&type_methods=&topical_areas=&date_posted2=" target="_blank">DNA related resources</a>
+* DNAdots <a href="https://dnadots.minipcr.com/?s=&post_type=dnadots-item" target="_blank">simple expanations of modern genetic technologies</a>
+* Howard Hughes Medical Institute (HHMI) BioInteractive <a href="https://www.biointeractive.org/planning-tools/resource-playlists?f%5B0%5D=topics%3A28" target="_blank">Genetics Resource Playlists</a>
+* Jackson Laboratory <a href="https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be" target="_blank">Career Chats</a>
 
