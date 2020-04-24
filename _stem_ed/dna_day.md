@@ -3,7 +3,7 @@ title: "Digital DNA Day"
 collection: stem_ed
 permalink: /stem_ed/dna_day
 date: 2020-04-24
-og_image: images/DNA_DAY_BLOCK_Blue.jpg
+og_image: images/DNA_DAY_BLOCK_red.jpg
 og_type: website
 og_title: Digital DNA Day
 ---
