@@ -2,7 +2,7 @@
 title: "Seeds Pre-School Environmental Science Education"
 collection: teaching
 type: "Pre-school"
-permalink: /teaching/seeds
+permalink: /stem_ed/seeds
 venue: "Quaker Lake Camp"
 date: 2013-08-01
 location: "Climax, NC"
