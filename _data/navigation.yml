@@ -13,7 +13,7 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-- title: "STEM Ed"
+  - title: "STEM Ed"
     url: /stem_ed/
 
   - title: "CV"
