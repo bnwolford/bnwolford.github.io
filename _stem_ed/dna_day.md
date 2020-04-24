@@ -1,3 +1,11 @@
+---
+title: "Digital DNA Day"
+collection: stem_ed
+type: "Pre-school"
+permalink: /stem_ed/dna_day
+date: 2020-04-25
+---
+
 # Happy Digital DNA Day: April 25, 2020
 
 ## A compilation of educational resources
