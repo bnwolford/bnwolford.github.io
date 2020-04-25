@@ -61,7 +61,7 @@ Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">
   
 ## Miscellaneous DNA resources 
 * <a href="https://education.23andme.com" target="_blank">23 & Me Education</a>: (**Start here!**) Check out the “Educational Videos” tab to learn Genetics 101 concepts, from “What are Genes?” to “Out of Africa”. These instructional videos are great for middle and high schoolers. 
-* PBS Documentary with author of *The Gene*, Siddhartha Mukherjee, and Ken Burns: (**Start here!**) This awesome documentary is a great stay-at-home resource for students and parents alike! Good for all age groups, it covers the basics of genes and societal implications along with history.  
+* PBS Documentary with author of <a href="https://www.goodreads.com/book/show/27276428-the-gene" target="_blank">*The Gene*</a>, Siddhartha Mukherjee, and Ken Burns: (**Start here!**) This awesome documentary is a great stay-at-home resource for students and parents alike! Good for all age groups, it covers the basics of genes and societal implications along with history.  
   - <a href="https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/" target="_blank">Part 1</a>
   - <a href="https://www.pbs.org/video/part-2-revolution-in-the-treatment-of-disease-z9nxg5/" target="_blank">Part 2</a>
 * Personal Genetics Education Project <a href="https://pged.org/lesson-plans/" target="_blank">Lesson Plans</a>: These are great lesson plans for high school or college students who already have a basic understanding of genetics and want to apply some of that knowledge. There are more than ten lesson plans here that explore the societal and ethical implications of DNA sequencing, and allow students to explore decisions scientists face when sequencing DNA. 
