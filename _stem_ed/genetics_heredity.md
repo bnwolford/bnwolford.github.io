@@ -15,9 +15,9 @@ I am available for K-12 science education in the Ann Arbor, Michigan area and in
 * CRISPR (7th grade, age 12) [Worksheet](/files/CRISPR.pdf)
 
 * Heredity through Trait wheels
-- [Simple worksheet](/files/Trait_wheel_simple.pdf) (K-4, ages 5-9)
-- [Advanced worksheet](/files/Trait_wheel_advanced.pdf) (grades 5th and up, ages 10 and up)
+  - [Simple worksheet](/files/Trait_wheel_simple.pdf) (K-4, ages 5-9)
+  - [Advanced worksheet](/files/Trait_wheel_advanced.pdf) (grades 5th and up, ages 10 and up)
 
 * Heredith through pedigrees (2nd grade age 8)
-- [Wprksheet](/files/pedigree_heredity_coloring_worksheet.pdf)
-- [Instruction](/files/pedigree_heredity_printable_instructions.pdf)
+  - [Wprksheet](/files/pedigree_heredity_coloring_worksheet.pdf)
+  - [Instruction](/files/pedigree_heredity_printable_instructions.pdf)
