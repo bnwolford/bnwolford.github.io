@@ -15,6 +15,9 @@ og_title: Digital DNA Day
 ![](/images/DNA_DAY_long.jpg)
 Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">NHGRI</a>.  
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cgyc55JhdcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## National Human Genome Research Institute
 * <a href="https://www.genome.gov/dna-day/get-activity-ideas" target="_blank">DNA Day Activity Ideas</a>: (**Start here!**) Check out the HHMI Biointeractive resource on this page for middle and high school lesson plans in genetics, educational videos on genomics, and instructions on how to do DNA extraction from a strawberry. This link also includes video lessons from MIT on DNA, and more animated videos about the history of DNA discovery appropriate for middle and high school aged students. Some of the activities are also listed below. 
 * <a href="https://www.genome.gov/dna-day/15-ways" target="_blank">15 Ways Genomics Influences Our World</a>: Once students are more familiar with concepts surrounding genetics (see educational videos at the links above), explore real world examples on this website. These resources are geared towards high school students, or middle schoolers with a parent or sibling’s help. 
