@@ -51,9 +51,12 @@ For high schoolers on Reddit, check out this link on different science topics, i
 * <a href="https://twitter.com/GeneticsSociety" target="_blank">ASHG Twitter</a> to see <a href="https://twitter.com/hashtag/GENEfacts?src=hashtag_click" target="_blank"> #GENEfacts</a>  Check out the ASHG’s Twitter feed to see lots of new information and fun facts about genes. 
 
 ## Podcasts
-  - <a href="https://inthosegenes.com" target="_blank">In Those Genes</a>
-  - <a href="http://dnapodcast.com/about-us" target="_blank">DNA Today</a>
-  - <a href="https://www.sciencefriday.com" target="_blank">Science Friday</a> and their <a href="https://www.sciencefriday.com/segments/free-stem-resources/" target="_blank">STEM Resources</a>
+  - <a href="https://inthosegenes.com" target="_blank">In Those Genes</a>  
+   Looking for a road trip podcast? This one combines genetics and history using a lens of Black culture to look at the descent of African Americans in the US. This is a great one for high schoolers and parents alike!
+  - <a href="http://dnapodcast.com/about-us" target="_blank">DNA Today</a>  
+  This podcast aims to educate the public on genetic and public health topics and has guest speakers who are genetic counselors, researchers, and professors. Check it out to learn some new advances in genetics. 
+  - <a href="https://www.sciencefriday.com" target="_blank">Science Friday</a> and their <a href="https://www.sciencefriday.com/segments/free-stem-resources/" target="_blank">STEM Resources</a>  
+  Tune in to Science Friday by NPR to hear the lastest and greatest in science news, and check out the STEM resources to hear about new resources for science teachers. 
   
 ## General Science Learning
 * <a href="https://www.instagram.com/mrs.b.tv/" target="_blank">Mrs. B TV</a>
