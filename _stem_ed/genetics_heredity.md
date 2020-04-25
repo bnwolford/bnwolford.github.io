@@ -19,3 +19,8 @@ I am available for K-12 science education in the Ann Arbor, Michigan area and in
 * Heredith through pedigrees (2nd grade, age 8)
     - [Worksheet](/files/pedigree_heredity_coloring_worksheet.pdf)
     - [Instruction](/files/pedigree_heredity_printable_instructions.pdf)
+
+* Mitosis and Meiosis (3-5 grade, ages 8-10)
+    - [Chromosome printable](/files/chromosomes.pdf)
+    - [Meiosis printable](/files/meiosis.pdf)
+    - [Mitosis printable](/files/mitosis.pdf)
