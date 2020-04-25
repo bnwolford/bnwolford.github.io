@@ -8,7 +8,7 @@ og_type: website
 og_title: Digital DNA Day
 ---
 
-<a href="https://www.genome.gov/dna-day" target="_blank">National DNA Day</a> commemorates the successful completion of the Human Genome Project in 2003 and the discovery of DNA's double helix in 1953. Since many in-person DNA Day celebrations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020. This list has something for students of all ages, parents, and educators. Detailed resource summaries are primarily by <a href="https://audreydrotos.github.io" target="_blank">Audrey Dotros</a>, and this list was compiled with help from [Dr. Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/). We note the best places to start for DNA novices with a **Start here!**. 
+<a href="https://www.genome.gov/dna-day" target="_blank">National DNA Day</a> commemorates the successful completion of the Human Genome Project in 2003 and the discovery of DNA's double helix in 1953. Since many in-person DNA Day celebrations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020. This list has something for students of all ages, parents, and educators. Detailed resource summaries are primarily by <a href="https://audreydrotos.github.io" target="_blank">Audrey Drotos</a>, and this list was compiled with help from [Dr. Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/). We note the best places to start for DNA novices with a **Start here!**. 
 
 **Check back as we continue to update and release some custom content.**
 
