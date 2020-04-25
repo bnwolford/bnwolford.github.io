@@ -16,6 +16,6 @@ I am available for K-12 science education in the Ann Arbor, Michigan area and in
     - [Simple worksheet](/files/Trait_wheel_simple.pdf) (K-4, ages 5-9)
     - [Advanced worksheet](/files/Trait_wheel_advanced.pdf) (grades 5th and up, ages 10 and up)
 
-* Heredith through pedigrees (2nd grade age 8)
+* Heredith through pedigrees (2nd grade, age 8)
     - [Worksheet](/files/pedigree_heredity_coloring_worksheet.pdf)
     - [Instruction](/files/pedigree_heredity_printable_instructions.pdf)
