@@ -55,7 +55,7 @@ Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">
 * Celebrate DNA Day with this <a href="https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be" target="_blank">Career Chat</a> to learn what a genetic counselor does! 
   
 ## General Science Learning
-* <a href="https://www.instagram.com/mrs.b.tv/" target="_blank">Mrs. B TV</a>
+* Mrs. B TV: A science teacher from North Carolina is providing science activities to do at home and instructional videos via <a href="https://www.tiktok.com/@mrs.b.tv" target="_blank">Tik Tok</a> and <a href="https://www.instagram.com/mrs.b.tv/" target="_blank">Instagram</a>.
 * <a href="https://www.skypeascientist.com" target="_blank">Skype A Scients</a> Want to talk to a real-world scientist? Help your students skype a scientist in a field they’re interested in! Sign-ups for classrooms seeking scientists and scientists wanting to contribute happen each semester.
 * <a href="https://www.youtube.com/user/AmoebaSisters" target="_blank">Amoeba Sisters Videos</a>: (**Start here!**) The Amoeba sisters are great for elementary, middle, or high school students and cover tons of basic genetic topics. They’re short and great for younger students! 
   
