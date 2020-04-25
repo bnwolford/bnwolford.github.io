@@ -12,7 +12,7 @@ og_title: Digital DNA Day
 
 ![](/images/DNA_DAY_long.jpg)
 Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">NHGRI</a>.
-Detailed summaries by Audrey Dotros. Compiled with help from [Dr. Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/).
+Detailed resource summaries by Audrey Dotros. Compiled with help from [Dr. Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/).
 
 ## National Human Genome Research Institute
 * <a href="https://www.genome.gov/dna-day/get-activity-ideas" target="_blank">DNA Day Activity Ideas</a>  
@@ -27,11 +27,15 @@ This YouTube video gives a brief history of the Human Genome Project and some of
 Follow along on Twitter for programming and information.
 
 ## Genome Unlocking Life's Code
-* <a href="https://unlockinglifescode.org/learn/curriculum" target="_blank">Curriculum</a>
-* <a href="https://unlockinglifescode.org/media/animations/659#660" target="_blank">Animated Genome</a>
-* Explore ethical, legal and social implications with <a href="https://unlockinglifescode.org/wdyt/#/" target="_blank">What do you think?</a>
-* Explore the human origins with <a href="https://unlockinglifescode.org/iaba/" target="_blank">In and Beyond Africa</a>
-* Strawberry DNA Extraction Experiment
+* <a href="https://unlockinglifescode.org/learn/curriculum" target="_blank">Curriculum</a>  
+This link includes complete lesson plans for high school students exploring genetic variation and human identity. These were made to supplement normal high school instruction, and include both lessons and activities. 
+* <a href="https://unlockinglifescode.org/media/animations/659#660" target="_blank">Animated Genome</a>  
+(Start here!) These videos are animated introductions to what DNA is and would be a great introduction for high school and middle school students. The video runs pretty fast, so elementary students might want a parent or sibling present to help with reading. The animations are really fun! This link also includes videos on “Parts of the Cell” and “Chromosomes and Genes”. 
+* Explore ethical, legal and social implications with <a href="https://unlockinglifescode.org/wdyt/#/" target="_blank">What do you think?</a>  
+This link launches into an interactive website where high school and middle school students can explore ethical implications of DNA sequencing. This would be most useful after students have gotten a solid introduction to DNA and sequencing (see some of the above links). 
+* Explore the human origins with <a href="https://unlockinglifescode.org/iaba/" target="_blank">In and Beyond Africa</a>  
+This is another cool interactive website where students can explore different time periods and how human DNA has changed over time. This would be most useful for high school and middle school students after they’ve received an introduction to DNA and sequencing (see some of the above links)
+* Strawberry DNA Extraction Experimen: Now that you’ve got a handle on what DNA is, extract some yourself with directors of the NIH and NHGRI! All you need is a few strawberries and some other everyday household items. This would be great for students of all ages, with a parent’s help!
   - <a href="https://www.youtube.com/watch?v=hOpu4iN5Bh4" target="_blank">Video</a>
   - <a href="https://unlockinglifescode.org/education-resource-profile/dna-strawberries-tutorial-video-and-poster" target="_blank">Instructions</a>
   
