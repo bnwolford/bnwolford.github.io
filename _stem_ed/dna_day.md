@@ -11,7 +11,7 @@ og_title: Digital DNA Day
 <a href="https://www.genome.gov/dna-day" target="_blank">National DNA Day</a> commemorates the successful completion of the Human Genome Project in 2003 and the discovery of DNA's double helix in 1953. Since many in-person DNA Day celebrations are moving online, I'm hosting this compilation of educational resources to celebrate Digital DNA Day: April 25, 2020.
 
 ![](/images/DNA_DAY_long.jpg)
-Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">NHGRI</a>.
+Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">NHGRI</a>.  
 Detailed resource summaries by <a href="https://audreydrotos.github.io" target="_blank">Audrey Dotros</a>. Compiled with help from [Dr. Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/).
 
 ## National Human Genome Research Institute
@@ -40,12 +40,15 @@ This is another cool interactive website where students can explore different ti
   - <a href="https://unlockinglifescode.org/education-resource-profile/dna-strawberries-tutorial-video-and-poster" target="_blank">Instructions</a>
   
 ## American Society of Human Genetics 
-* <a href="https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf" target="_blank">DNA Day Activity Ideas</a>
-* American Society of Human Genetics (ASHG) K-12 Educational <a href="https://www.ashg.org/discover-genetics/k-12-education/" target="_blank">Resources</a>
-* <a href="https://www.ashg.org/discover-genetics/k-12-education/dna-day/" target="_blank">DNA Day Essay Contest</a> for high schoolers
-* <a href="https://www.reddit.com/r/science/" target="_blank">May 1, 2020 Reddit AMA</a>
-* <a href="https://www.ashg.org/discover-genetics/gene-network" target="_blank">Genetics Engagement & Education Network</a> for educators looking for genetics contacts
-* <a href="https://twitter.com/GeneticsSociety" target="_blank">ASHG Twitter</a> to see <a href="https://twitter.com/hashtag/GENEfacts?src=hashtag_click" target="_blank"> #GENEfacts</a>  
+* <a href="https://www.ashg.org/wp-content/uploads/2020/03/Virtual-Programs-Handout-FINAL.pdf" target="_blank">DNA Day Activity Ideas</a>  
+This PDF file includes a link to the Strawberry DNA extraction above and another video about how soap works. In addition, it has an online activity involving space. The videos are great for kids K-5, and the online activity is for high school students.  
+* American Society of Human Genetics (ASHG) K-12 Educational <a href="https://www.ashg.org/discover-genetics/k-12-education/" target="_blank">Resources</a>  
+Check out the “Discover Genetics” page in the menu and then click “Genetics Basics” for access to 6 mini-lessons on genetics concepts. These would be great for high school or middle school students, with a parent’s help.
+* <a href="https://www.ashg.org/discover-genetics/k-12-education/dna-day/" target="_blank">DNA Day Essay Contest</a> for high schoolers. This year’s submission is closed but check back later in the year for the essay prompt to submit! This is geared towards high school students. 
+* <a href="https://www.reddit.com/r/science/" target="_blank">May 1, 2020 Reddit AMA</a>  
+For high schoolers on Reddit, check out this link on different science topics, including DNA!
+* <a href="https://www.ashg.org/discover-genetics/gene-network" target="_blank">Genetics Engagement & Education Network</a> This would be useful for teachers and the public interested in connecting with a scientist regarding a genetics-related question or getting a speaker at a school from ASHG. This resources is more for parents and educators.
+* <a href="https://twitter.com/GeneticsSociety" target="_blank">ASHG Twitter</a> to see <a href="https://twitter.com/hashtag/GENEfacts?src=hashtag_click" target="_blank"> #GENEfacts</a>  Check out the ASHG’s Twitter feed to see lots of new information and fun facts about genes. 
 
 ## Podcasts
   - <a href="https://inthosegenes.com" target="_blank">In Those Genes</a>
