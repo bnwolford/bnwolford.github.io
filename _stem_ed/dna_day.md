@@ -12,14 +12,19 @@ og_title: Digital DNA Day
 
 ![](/images/DNA_DAY_long.jpg)
 Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">NHGRI</a>.
-Compiled with help from [Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/).
+Detailed summaries by Audrey Dotros. Compiled with help from [Dr. Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/).
 
 ## National Human Genome Research Institute
 * <a href="https://www.genome.gov/dna-day/get-activity-ideas" target="_blank">DNA Day Activity Ideas</a>
+Start here!) Check out the HHMI Biointeractive resource on this page for middle and high school lesson plans in genetics, educational videos on genomics, and instructions on how to do DNA extraction from a strawberry. This link also includes video lessons from MIT on DNA, and more animated videos about the history of DNA discovery appropriate for middle and high school aged students. 
 * <a href="https://www.genome.gov/dna-day/15-ways" target="_blank">15 Ways Genomics Influences Our World</a>
-* <a href="https://www.genome.gov/about-genomics/teaching-tools" target="_blank">Teaching Tools</a>
+Once students are more familiar with concepts surrounding genetics (see educational videos at the links above), explore real world examples on this website. These resources are geared towards high school students, or middle schoolers with a parent or sibling’s help. 
+* <a href="https://www.genome.gov/about-genomics/teaching-tools" target="_blank">Teaching Tools</a> 
+(Start here!) Start with this resource, which covers thorough DNA lesson plans and instructions for making DNA origami, which can help students to visualize DNA structure. This link also includes lesson plans for transcription and translation and a history of genonomic. These resources are geared towards high school students, or middle schoolers with a parent or sibling’s help. 
 * <a href="https://www.youtube.com/watch?v=qOW5e4BgEa4" target="_blank">Lessons From the Human Genome Project</a>
-* <a href="https://twitter.com/DNAday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">National DNA Day Twitter</a>  
+This YouTube video gives a brief history of the Human Genome Project and some of its applications. This is geared towards high school or middle school students. 
+* <a href="https://twitter.com/DNAday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">National DNA Day Twitter</a>
+Follow along on Twitter for programming and information.
 
 ## Genome Unlocking Life's Code
 * <a href="https://unlockinglifescode.org/learn/curriculum" target="_blank">Curriculum</a>
