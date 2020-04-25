@@ -51,7 +51,7 @@ Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">
   <a href="http://ow.ly/nGUB50znWCS" target="_blank">Video</a> and <a href="http://ow.ly/3mke50znWCT" target="_blank">Activity</a>
   
 ## The Jackson Laboratory
-* The Minute to understanding <a href="https://www.youtube.com/playlist?list=PLWNp6Z5dXDZ7uOGJHchb6F-zoExE8gwep" target="_blank">playlist</a> has quick explainers about genetics topics from gene therapy to mouse models.
+* The Minute to Understanding <a href="https://www.youtube.com/playlist?list=PLWNp6Z5dXDZ7uOGJHchb6F-zoExE8gwep" target="_blank">playlist</a> has quick explainers about genetics topics from gene therapy to mouse models.
 * Celebrate DNA Day with this <a href="https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be" target="_blank">Career Chat</a> to learn what a genetic counselor does! 
   
 ## General Science Learning
