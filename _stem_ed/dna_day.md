@@ -12,7 +12,7 @@ og_title: Digital DNA Day
 
 ![](/images/DNA_DAY_long.jpg)
 Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">NHGRI</a>.
-Detailed resource summaries by Audrey Dotros. Compiled with help from [Dr. Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/).
+Detailed resource summaries by <a href="https://audreydrotos.github.io" target="_blank">Audrey Dotros</a>. Compiled with help from [Dr. Christina Vallianatos](https://www.linkedin.com/in/christinavallianatos/).
 
 ## National Human Genome Research Institute
 * <a href="https://www.genome.gov/dna-day/get-activity-ideas" target="_blank">DNA Day Activity Ideas</a>  
