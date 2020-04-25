@@ -14,8 +14,8 @@ Girls Who Code is a national non-profit organization dedicated to closing the ge
 
 In addition to our Girls Who Code club, we partner with other university organizations to teach computer science lessons to K-12 students.
 
-Roles:
-2016-2020 Executive Committee Co-Chair, 2016-2018 Logistics Chair, 2016-2018 Outreach Chair
+Roles:  
+2016-2020 Executive Committee Co-Chair, 2016-2018 Logistics Chair, 2016-2018 Outreach Chair, 2017-2020 Girls Who Code Club Facilitator, 2019 Data Science Summer Experience Facilitator 
 
 
 
