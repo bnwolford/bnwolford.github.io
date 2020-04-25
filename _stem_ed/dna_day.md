@@ -50,6 +50,10 @@ Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">
 1. Create origami DNA 
   <a href="http://ow.ly/nGUB50znWCS" target="_blank">Video</a> and <a href="http://ow.ly/3mke50znWCT" target="_blank">Activity</a>
   
+## The Jackson Laboratory
+* The Minute to understanding <a href="https://www.youtube.com/playlist?list=PLWNp6Z5dXDZ7uOGJHchb6F-zoExE8gwep" target="_blank">playlist</a> has quick explainers about genetics topics from gene therapy to mouse models.
+* Celebrate DNA Day with this <a href="https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be" target="_blank">Career Chat</a> to learn what a genetic counselor does! 
+  
 ## General Science Learning
 * <a href="https://www.instagram.com/mrs.b.tv/" target="_blank">Mrs. B TV</a>
 * <a href="https://www.skypeascientist.com" target="_blank">Skype A Scients</a> Want to talk to a real-world scientist? Help your students skype a scientist in a field they’re interested in! Sign-ups for classrooms seeking scientists and scientists wanting to contribute happen each semester.
@@ -69,5 +73,5 @@ Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">
 * National Center for Case Study Teaching in Science <a href="https://sciencecases.lib.buffalo.edu/collection/results.html?keywords2=dna&submit=Search&subject_headings=&educational_level=&type_methods=&topical_areas=&date_posted2=" target="_blank">DNA related resources</a>: Explore some ethical questions and case studies with your high schooler about DNA sequencing, cancer, genetics, and many others. These are great activities to apply genetics knowledge and think deeply about the concepts. 
 * DNAdots <a href="https://dnadots.minipcr.com/?s=&post_type=dnadots-item" target="_blank">simple explanations of modern genetic technologies</a>: These are great applications of genetics and could be used as small lesson plans for high school students who already have a good understanding of genetics. Learn about Prions, RNA-Seq, RNA Interference, and lots more. 
 * Howard Hughes Medical Institute (HHMI) BioInteractive <a href="https://www.biointeractive.org/planning-tools/resource-playlists?f%5B0%5D=topics%3A28" target="_blank">Genetics Resource Playlists</a>:Check out this link with tons of videos you can filter by topic, including biology, evolution, and genetics. These are great for high school and college aged students.
-* Jackson Laboratory <a href="https://www.youtube.com/watch?v=U-djEmXdNZU&feature=youtu.be" target="_blank">Career Chats</a> to learn what a genetic counselor does! 
+
 
