@@ -51,8 +51,8 @@ Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">
 ## Michigan DNA Day
 * <a href="https://midnaday.com/the-modules/" target="_blank">Modules</a>: Use these modules to build on your DNA knowledge and apply it to cancer, forensics, pharmacogenetics, and more! Appropriate for high school students or middle schoolers with some help.  
 * This <a href="https://midnaday.com" target="_blank">student organization</a> at the University of Michigan is releasing a daily activity for the next week. 
-1. Create origami DNA 
-  <a href="http://ow.ly/nGUB50znWCS" target="_blank">Video</a> and <a href="http://ow.ly/3mke50znWCT" target="_blank">Activity</a>
+1. Create origami DNA: <a href="http://ow.ly/nGUB50znWCS" target="_blank">Video</a> and <a href="http://ow.ly/3mke50znWCT" target="_blank">Activity</a>
+2. <a href="https://www.yourgenome.org/activities/spot-the-difference-zebrafish?fbclid=IwAR3AwGxRV_Dx5fYJa0gvGbzzcXMSGJADgEml6vvJI2kp-EBmRMRfJxpJIfk" target="_blank">Spot the difference</a>: Explore the use of Zebrafish to understand human disease
   
 ## The Jackson Laboratory
 * The Minute to Understanding <a href="https://www.youtube.com/playlist?list=PLWNp6Z5dXDZ7uOGJHchb6F-zoExE8gwep" target="_blank">playlist</a> has quick explainers about genetics topics from gene therapy to mouse models.
