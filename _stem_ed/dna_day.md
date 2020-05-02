@@ -55,6 +55,8 @@ Image from <a href="https://www.genome.gov/dna-day/starter-kit" target="_blank">
   2. <a href="https://www.yourgenome.org/activities/spot-the-difference-zebrafish?fbclid=IwAR3AwGxRV_Dx5fYJa0gvGbzzcXMSGJADgEml6vvJI2kp-EBmRMRfJxpJIfk" target="_blank">Spot the difference</a>: Explore the use of Zebrafish to understand human disease  
   3. <a href="https://t.co/IrJw3Pv76s?amp=1" target="_blank">Meet three UM Genetic Counseling alumni</a> and <a href="http://ow.ly/SuC550znUeA" target="_blank">learn how to build a pedigree</a>  
   4. "Not all genomes are made of DNA! <a href="https://www.exploratorium.edu/learn" target="_blank">Choose an activity</a> and explore what makes up a virus and learn how RNA viruses (like coronavirus!) can live on household surfaces and assemble more copies of their RNA genome."  
+  5. <a href="https://www.yourgenome.org/activities/extracting-dna-from-fruit?fbclid=IwAR2Un2qkDRnkIJijZOwfuxcwr4Esl2J7_VeHrJxRZb9eqWQmyhyXmeZkdgU" target="_blank>Extracting DNA from fruit</a>
+  6. Inherited traits <a href="https://www.slideserve.com/emery-joseph/inherited-traits" target="_blank">presentation</a> (target audience 5th grade) and <a href="https://teach.genetics.utah.edu/content/heredity/files/Traits-Trivia.pdf" target="_blank">family traits trivia</a>
   
 ## The Jackson Laboratory
 * The Minute to Understanding <a href="https://www.youtube.com/playlist?list=PLWNp6Z5dXDZ7uOGJHchb6F-zoExE8gwep" target="_blank">playlist</a> has quick explainers about genetics topics from gene therapy to mouse models.
