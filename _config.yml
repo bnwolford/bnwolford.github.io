@@ -51,7 +51,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : google-site-verification=a2wWNdRrSPW8G9WE-3Y_j8YKVfoZdmoM9pfoIQFCnzA
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Brooke N. Wolford"
-  avatar           : "BC8U9225_f_w_3by3.jpg"
+  avatar           : "brooke_A7J03956.jpg"
   #avatar           : "BNW_logo.png"
   bio              : "PhD Candidate and Statistical Geneticist at the University of Michigan"
   location         : "Ann Arbor, MI"
