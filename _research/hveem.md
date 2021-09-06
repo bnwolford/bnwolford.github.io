@@ -1,6 +1,6 @@
 ---
 permalink: /research/hveem
-title: "K.G. Jebsen Centre for Genetic Epidemiology
+title: "K.G. Jebsen Centre for Genetic Epidemiology"
 collection: research
 date: 2021-10-01
 ---
