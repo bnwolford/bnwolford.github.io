@@ -9,6 +9,6 @@ redirect_from:
 
 [Click to download](https://github.com/bnwolford/bnwolford.github.io/raw/master/files/BW_CV_April_2025.pdf)   
 
-<a href="https://github.com/bnwolford/bnwolford.github.io/raw/master/files/BW_CV_Feb_2026.pdf" download="BW_CV_Feb_2026.pdf"><img src="../images/BW_CV_Feb_2026_page1.jpg" height="50%" width="50%"></a>
+<a href="https://github.com/bnwolford/bnwolford.github.io/raw/master/files/BW_CV_Feb_2026.pdf" download="BW_CV_Feb_2026.pdf"><img src="../images/BW_CV_Feb_2026_pg1.jpg" height="50%" width="50%"></a>
 
 
